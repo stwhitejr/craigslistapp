@@ -31,10 +31,10 @@
     "@fortawesome/free-solid-svg-icons": "^5.4.0",
     "@fortawesome/react-fontawesome": "^0.1.3",
     "i": "^0.3.6",
-    "npm": "^6.4.1",
-    "node-craigslist": "^1.2.2"
+    "npm": "^6.4.1"
   },
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "node-craigslist": "^1.2.2"
   }
 }
